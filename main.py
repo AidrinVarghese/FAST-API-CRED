@@ -5,7 +5,7 @@ from openpyxl.utils.dataframe import dataframe_to_rows
 import pandas as pd
 
 app = FastAPI()
-file_path = "D:\ILP\Python Training\FAST API CRED OPERATIONS\FASTAPI.xlsx"
+file_path = "D:\\pythonExcelTask\\FAST-API-CRED\\FASTAPI.xlsx"
 
 
 def read_excel_file():
